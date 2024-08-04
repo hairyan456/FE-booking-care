@@ -1,0 +1,32 @@
+.manage-doctors-container {
+    margin: 0 50px;
+
+    .save-content-doctor {
+        margin-top: 20px;
+        border-radius: 5px;
+        outline: none;
+        padding: 0 10px;
+        font-size: 15px;
+        font-weight: 600;
+        cursor: pointer;
+
+        &:hover {
+            opacity: 0.85;
+        }
+    }
+
+    .more-infor {
+        display: flex;
+        width: 100%;
+        gap: 33px;
+        padding-bottom: 20px;
+
+        .content-left {
+            width: 32.7%;
+        }
+
+        .content-right {
+            width: 67.3%;
+        }
+    }
+}

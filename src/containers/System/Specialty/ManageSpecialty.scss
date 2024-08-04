@@ -1,0 +1,47 @@
+.manage-specialty-container {
+    padding: 0 100px;
+
+    .add-new-specialty {
+
+        .manage-specialty-editor {
+            margin: 20px 0;
+        }
+
+        .preview-img-container {
+            display: flex;
+
+            .label-upload {
+                height: fit-content;
+                padding: 7px;
+                border-radius: 3px;
+                background-color: #ddd;
+                cursor: pointer;
+                font-size: 16px;
+                font-weight: 600;
+                margin-right: 30px;
+
+                &:hover {
+                    opacity: 0.8;
+                }
+            }
+
+            .preview-image {
+                height: 80px;
+                width: 50%;
+                background: center center no-repeat;
+                background-size: contain;
+                border: 1px solid #ddd;
+                cursor: pointer;
+            }
+        }
+
+        .btn-save-specialty {
+            font-weight: 600;
+            font-size: 15px;
+        }
+    }
+
+    .custom-lightbox {
+        z-index: 2000 !important;
+    }
+}

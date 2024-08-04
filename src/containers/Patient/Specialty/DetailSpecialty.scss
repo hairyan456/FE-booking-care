@@ -1,0 +1,67 @@
+.detail-specialty-container {
+    margin: 0 100px;
+    background-color: white;
+
+    .description-specialty {
+        margin: 10px 0;
+        padding: 10px 7px;
+        font-family: Montserrat, sans-serif !important;
+        font-size: 13px;
+        outline: none !important;
+        box-shadow: 0 1px 6px #20212447;
+
+        .description-title {
+            font-size: 16.5px;
+            font-weight: 550;
+            margin-bottom: 10px;
+            color: grey;
+        }
+
+        h3 {
+            font-size: 14.8px;
+            font-weight: 550;
+        }
+    }
+
+    .search-doctors-specialty {
+        select {
+            border-radius: 5px;
+            cursor: pointer;
+        }
+    }
+
+    .each-doctor {
+        display: flex;
+        width: 100%;
+        min-height: 300px;
+        margin: 20px 0;
+        background-color: #fff;
+        box-shadow: 0 1px 6px #20212447;
+        border-radius: 8px;
+        padding: 10px;
+
+        .dt-content-left {
+            width: 50%;
+            padding-right: 20px;
+            border-right: 1px solid #ddd;
+        }
+
+        .dt-content-right {
+            width: 50%;
+            padding: 10px;
+
+            .doctor-schedule {}
+
+            .doctor-extra-infor {
+                border-top: 1px solid #ddd;
+                margin-top: 25px;
+                padding-top: 10px;
+
+                .doctor-extra-infor-container {
+                    //ghi đè CSS của DoctorExtraInfor
+                    padding-left: 0px !important;
+                }
+            }
+        }
+    }
+}

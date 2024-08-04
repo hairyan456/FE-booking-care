@@ -1,0 +1,127 @@
+{
+    "home-header": {
+        "specialty": "Chuyên khoa",
+        "searchDoctor": "Tìm bác sĩ theo chuyên khoa",
+        "health-facility": "Cơ sở y tế",
+        "select-room": "Chọn bệnh viện - phòng khám",
+        "doctor": "Bác sĩ",
+        "select-good-doctor": "Chọn bác sĩ giỏi",
+        "fee": "Gói khám",
+        "check-health": "Khám sức khỏe tổng quát",
+        "support": "Hỗ trợ",
+        "welcome": "Xin chào, "
+    },
+    "banner": {
+        "title1": "NỀN TẢNG Y TẾ",
+        "title2": "CHĂM SÓC SỨC KHỎE TOÀN DIỆN",
+        "text-child1": "Khám chuyên khoa",
+        "text-child2": "Khám từ xa",
+        "text-child3": "Khám tổng quát",
+        "text-child4": "Xét nghiệm y học",
+        "text-child5": "Sức khỏe tinh thần",
+        "text-child6": "Khám nha khoa"
+    },
+    "menu": {
+        "admin": {
+            "manage-user": "Người dùng",
+            "manage-doctor": "Quản lí bác sĩ",
+            "manage-admin": "Quản lí Admin",
+            "crud": "CRUD User",
+            "crud-redux": "Quản lí tất cả người dùng",
+            "clinic": "Phòng khám",
+            "manage-clinic": "Quản lí phòng khám",
+            "specialty": "Chuyên khoa",
+            "manage-specialty": "Quản lí chuyên khoa",
+            "handbook": "Cẩm nang",
+            "manage-handbook": "Quản lí cẩm nang"
+        },
+        "doctor": {
+            "manage-schedule": "Quản lí lịch khám bệnh",
+            "manage-patient": "Quản lí bệnh nhân khám bệnh"
+        }
+    },
+    "homepage": {
+        "out-standing-doctor": "Bác sĩ nổi bật tuần qua",
+        "more-infor": "Xem thêm",
+        "popular-specialties": "Chuyên khoa phổ biến",
+        "out-standing-facilities": "Cơ sở y tế nổi bật",
+        "handbook": "Cẩm nang",
+        "about-title": "Truyền thông nói gì về BookingCare"
+    },
+    "patient": {
+        "detail-doctor": {
+            "schedule": "Lịch khám",
+            "no-schedule": "* Bác sĩ hiện không có lịch hẹn khám bệnh nào trong ngày này.",
+            "choose": "Chọn ",
+            "book-free": " và đặt lịch (miễn phí)"
+        },
+        "extra-infor-doctor": {
+            "text-address": "Địa chỉ khám",
+            "price": "Giá khám",
+            "detail": "Xem chi tiết",
+            "payment": "Phòng khám có hình thức thanh toán chi phí bằng hình thức:",
+            "hide-price": "Ẩn bảng giá"
+        },
+        "booking-modal": {
+            "title-modal": "Thông tin đặt lịch khám bệnh",
+            "price": "Giá khám",
+            "confirm": "Xác nhận",
+            "cancel": "Hủy",
+            "fullName": "Họ và tên",
+            "phoneNumber": "Số điện thoại",
+            "address": "Địa chỉ liên hệ",
+            "email": "Địa chỉ email",
+            "reason": "Lí do khám bệnh",
+            "birthday": "Ngày sinh",
+            "gender": "Giới tính"
+        },
+        "detail-specialty": {
+            "no-found-doctor": "Không tìm thấy dữ liệu bác sĩ nào.",
+            "more-detail-doctor": "Xem thêm"
+        }
+    },
+    "admin": {
+        "manage-user": {
+            "add": "Thêm mới người dùng",
+            "modal-create": {
+                "email": "Email",
+                "password": "Mật khẩu",
+                "first-name": "Tên",
+                "last-name": "Họ",
+                "phone-number": "Số điện thoại",
+                "address": "Địa chỉ",
+                "gender": "Giới tính",
+                "position": "Chức danh",
+                "role": "Vai trò",
+                "image": "Ảnh đại diện",
+                "btn-save": "Lưu người dùng",
+                "upload": "Tải ảnh"
+            },
+            "modal-delete": {
+                "title": "Xóa người dùng",
+                "confirm": "Bạn có muốn xóa người dùng: "
+            }
+        },
+        "manage-schedule": {
+            "title": "Quản lý lịch khám bệnh của bác sĩ",
+            "choose-doctor": "Chọn bác sĩ",
+            "choose-date": "Chọn ngày khám bệnh",
+            "button-save": "Lưu thông tin"
+        },
+        "manage-doctor": {
+            "title": "Tạo thêm thông tin bác sĩ",
+            "select-doctor": "Chọn bác sĩ",
+            "infor": "Thông tin giới thiệu",
+            "save": "Lưu thông tin",
+            "update": "Sửa thông tin",
+            "price": "Giá khám bệnh",
+            "payment": "Phương thức thanh toán",
+            "province": "Tỉnh thành",
+            "name-clinic": "Tên phòng khám",
+            "address-clinic": "Địa chỉ phòng khám",
+            "note": "Ghi chú",
+            "specialty": "Chọn chuyên khoa",
+            "clinic": "Chọn phòng khám"
+        }
+    }
+}

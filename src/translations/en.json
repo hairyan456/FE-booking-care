@@ -1,0 +1,127 @@
+{
+    "home-header": {
+        "specialty": "Medical Specialty",
+        "searchDoctor": "Finding a doctor by specialty",
+        "health-facility": "Health facilities",
+        "select-room": "Choosing a hospital - clinic",
+        "doctor": "Doctors",
+        "select-good-doctor": "Choosing a good doctor",
+        "fee": "Examination package",
+        "check-health": "General health check",
+        "support": "Supporting",
+        "welcome": "Welcome, "
+    },
+    "banner": {
+        "title1": "MEDICAL PLATFORM",
+        "title2": "COMPREHENSIVE HEALTHCARE",
+        "text-child1": "Specialist Consultation",
+        "text-child2": "Telemedicine",
+        "text-child3": "General Check-up",
+        "text-child4": "Medical Laboratory",
+        "text-child5": "Mental Health",
+        "text-child6": "Dental Examination"
+    },
+    "menu": {
+        "admin": {
+            "manage-user": "User",
+            "manage-doctor": "Manage Doctors",
+            "manage-admin": "Manage Admin",
+            "crud": "CRUD User",
+            "crud-redux": "Manage all Users",
+            "clinic": "Clinic",
+            "manage-clinic": "Manage clinic",
+            "specialty": "Specialty",
+            "manage-specialty": "Manage specialty",
+            "handbook": "Handbook",
+            "manage-handbook": "Manage handbook"
+        },
+        "doctor": {
+            "manage-schedule": "Manage doctor's schedule",
+            "manage-patient": "Manage doctor's patient"
+        }
+    },
+    "homepage": {
+        "out-standing-doctor": "Last week's featured doctors",
+        "more-infor": "More Infor",
+        "popular-specialties": "Popular Specialties",
+        "out-standing-facilities": "Outstanding medical facilities",
+        "handbook": "Handbooks",
+        "about-title": "BookingCare in the media"
+    },
+    "patient": {
+        "detail-doctor": {
+            "schedule": "Schedule",
+            "no-schedule": "* Doctor does not have any appointment during this time!",
+            "choose": "Choose ",
+            "book-free": " and book (free)"
+        },
+        "extra-infor-doctor": {
+            "text-address": "Address of Clinic",
+            "price": "Examination price",
+            "detail": "More detail",
+            "payment": "The patient can pay the cost in form of:",
+            "hide-price": "Hide price"
+        },
+        "booking-modal": {
+            "title-modal": "Medical appointment scheduling information",
+            "price": "Price:",
+            "confirm": "Confirm",
+            "cancel": "Cancel",
+            "fullName": "Full name",
+            "phoneNumber": "Phone number",
+            "address": "Address contact",
+            "email": "Email address",
+            "reason": "Reason",
+            "birthday": "Birthday",
+            "gender": "Gender"
+        },
+        "detail-specialty": {
+            "no-found-doctor": "No data doctor can be found.",
+            "more-detail-doctor": "More detail"
+        }
+    },
+    "admin": {
+        "manage-user": {
+            "add": "Add new user",
+            "modal-create": {
+                "email": "Email",
+                "password": "Password",
+                "first-name": "First name",
+                "last-name": "Last name",
+                "phone-number": "Phone number",
+                "address": "Address",
+                "gender": "Gender",
+                "position": "Position",
+                "role": "Role",
+                "image": "Avatar",
+                "btn-save": "Save user",
+                "upload": "Upload"
+            },
+            "modal-delete": {
+                "title": "Delete user",
+                "confirm": "Do you want to delete this user: "
+            }
+        },
+        "manage-schedule": {
+            "title": "Manage doctor's examination plan",
+            "choose-doctor": "Choose another doctor",
+            "choose-date": "Choose another date",
+            "button-save": "Save information"
+        },
+        "manage-doctor": {
+            "title": "Create more information for doctor",
+            "select-doctor": "Choosing another doctor",
+            "infor": "Introduction",
+            "save": "Save information",
+            "update": "Update information",
+            "price": "Price",
+            "payment": "Payment",
+            "province": "Province",
+            "name-clinic": "Clinic's name",
+            "address-clinic": "Address's clinic",
+            "note": "Note",
+            "specialty": "Specialty",
+            "clinic": "Clinic"
+        }
+    }
+}

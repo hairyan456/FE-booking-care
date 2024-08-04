@@ -1,0 +1,52 @@
+.container {
+    height: fit-content;
+    margin-bottom: 25px;
+
+    .description {
+        width: 100%;
+        text-align: center;
+        padding: 20px 0;
+        font: 15px / 1.5 'Montserrat', sans-serif;
+    }
+
+    .social-media {
+
+        .download-here {
+            text-align: center;
+            padding: 10px 0;
+
+            a {
+                color: rgb(8, 146, 146);
+                text-decoration: none;
+                font-size: 15px;
+            }
+        }
+
+        .qr-code {
+            height: fit-content;
+            width: 100%;
+            padding: 10px 0;
+
+            img {
+                height: 300px;
+                width: 300px;
+                display: block;
+                margin: 0 auto;
+            }
+        }
+
+        .ch-play,
+        .app-store {
+            height: fit-content;
+            width: 100%;
+            padding: 10px 0;
+
+            img {
+                width: 250px;
+                display: block;
+                margin: 0 auto;
+            }
+        }
+    }
+
+}
