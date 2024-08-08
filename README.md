@@ -8,7 +8,7 @@
 - Limitations: not Responsive on multiple devices
 
 # Install and Run project:
-- This project uses React version 17x.
+- This project uses React version 17x and Nodejs ver 14.17.0
 - Download source from: (https://github.com/hairyan456/FE-booking-care) to your local computer.
 - Add into VSCode, then type "npm install" to download all required libraries using in this project.
 - In ".env.example" file, type all your local information.
